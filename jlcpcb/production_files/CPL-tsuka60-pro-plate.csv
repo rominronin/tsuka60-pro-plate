@@ -1,7 +1,2 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-H1,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,120.65,-98.425,0.0,top
-H2,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,206.375,-98.425,0.0,top
-H3,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,292.1,-98.425,0.0,top
-H4,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,120.65,-155.575,0.0,top
-H5,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,206.375,-155.575,0.0,top
-H6,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,292.1,-155.575,0.0,top
+REF**,60_Outline,60_Outline-Modded,206.375,-127.0,0.0,top
